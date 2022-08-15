@@ -1,4 +1,5 @@
-<h2> Hey there! I'm Nathan. <img src="https://raw.githubusercontent.com/nathanlao/nathanlao/master/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Nathan. <img src="https://raw.githubusercontent.com/nathanlao/nathanlao/Hi.gif" width="25"></h2>
+
 <img align="right" alt="GIF" src="https://github.com/nathanlao/nathanlao/tenor.com/view/mario-pixel-rainbow-fly-gif-15865636" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
