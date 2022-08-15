@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Nathan. <img src="" width="25"></h2>
 
-<img align="right" alt="GIF" src="" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/nathanlao/nathanlao/blob/main/mario-pixel.gif" width="400" height="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
