@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Nathan. <img src="https://raw.githubusercontent.com/nathanlao/nathanlao/Hi.gif" width="25"></h2>
+<h2> Hey there! I'm Nathan. ![](https://www.pinterest.ca/pin/hi-hey-gif-hi-hey-discover-share-gifs--654710864561258466/)</h2>
 
 <img align="right" alt="GIF" src="https://github.com/nathanlao/nathanlao/tenor.com/view/mario-pixel-rainbow-fly-gif-15865636" width="500"/>
 
