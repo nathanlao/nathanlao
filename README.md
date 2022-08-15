@@ -1,4 +1,6 @@
-<h2> Hey there! I'm Nathan. <img src="" width="25"></h2>
+<h2> <img src="https://github.com/nathanlao/nathanlao/blob/main/giphy.gif" width="50"> &nbsp there! I'm Nathan.</h2> 
+
+
 
 <img align="right" alt="GIF" src="https://github.com/nathanlao/nathanlao/blob/main/mario-pixel.gif" width="400" height="400"/>
 
@@ -28,9 +30,7 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
+<p align="left">
 &nbsp; <a href="https://www.instagram.com/nathanloaaa/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="laoguanhua1015@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
-⭐️ From [nathanlao](https://github.com/nathanlao)
