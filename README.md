@@ -16,6 +16,7 @@
 
 - 💻 &nbsp; C | C++ | Java  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- ⚙️ &nbsp; PHP
 - 🛢 &nbsp; MySQL | Xampp
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
 
