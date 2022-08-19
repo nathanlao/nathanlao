@@ -1,4 +1,4 @@
-<h2> <img src="https://github.com/nathanlao/nathanlao/blob/main/giphy.gif" width="50"> &nbsp there! I'm Nathan.</h2> 
+<h2> <img src="https://github.com/nathanlao/nathanlao/blob/main/giphy.gif" width="50"> &nbsp I'm Nathan.</h2> 
 
 
 
