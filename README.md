@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/nathanlao/nathanlao/blob/main/mario-pixel.gif" width="350" height="350"/>
+<img align="right" alt="GIF" src="https://github.com/nathanlao/nathanlao/blob/main/mario-pixel.gif" width="340" height="340"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -22,7 +22,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanlao&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Nathanlao's Github Stats">
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nathanlao?cardType=level&Text=D3D3D3&Background=130F40&Title=7A7ADB&Ring=7A7ADB)](https://git.io/awesome-stats-card)
 
 </br>
 
