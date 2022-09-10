@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/nathanlao/nathanlao/blob/main/mario-pixel.gif" width="340" height="340"/>
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
