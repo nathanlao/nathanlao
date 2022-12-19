@@ -14,11 +14,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C | C++ | Java  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- ⚙️ &nbsp; PHP
+- 💻 &nbsp; C | C++ | Java | Python 
+- 🌐 &nbsp; HTML | CSS | JavaScript
+- ⚙️ &nbsp; PHP | SQL
 - 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; Visual Studio Code | Android Studio | PyCharm | Git
 
 <br>
 
