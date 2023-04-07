@@ -15,9 +15,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C | C++ | Java | Python 
-- 🌐 &nbsp; HTML | CSS | JavaScript
-- ⚙️ &nbsp; PHP | SQL
-- 🛢 &nbsp; MySQL | Xampp
+- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
+- ⚙️ &nbsp; NodeJS | ExpressJS | PHP | SQL
+- 🛢 &nbsp; MySQLWorkbench | Docker | Xampp
 - 🔧 &nbsp; Visual Studio Code | Android Studio | PyCharm | Git
 
 <br>
