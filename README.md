@@ -14,7 +14,9 @@
 - ⚙️ &nbsp; NodeJS | ExpressJS | PHP | SQL
 - 🛢 &nbsp; MySQLWorkbench | Docker | Xampp
 - 🔧 &nbsp; Visual Studio Code | Android Studio | PyCharm | Git
-<br/ >
+
+<br />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=nathanlao&layout=compact&theme=buefy">
   <img alt="Waka Tims" src="https://github-readme-stats.vercel.app/api/wakatime?username=nathanlao&layout=compact&theme=buefy">
