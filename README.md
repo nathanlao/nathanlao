@@ -21,21 +21,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=nathanlao&layout=compact&theme=buefy">
   <img alt="Waka Tims" src="https://github-readme-stats.vercel.app/api/wakatime?username=nathanlao&layout=compact&theme=buefy">
 </picture>
-
-<h3>🐳 My Aquarium</h3>
-
-```
-🐟　　　　　　　  　  🐙                            🐬                          🐬
- 🐟　　　　　　　　                   🐟              🐬                              🐡           🐬                         
-             🐡                                            🐟                                        🐟
-                        🐠       🐠                                 🐠        🐙                                      🐡
-　　　　　　　　　　         🐠                          🐟                             🐠              🐡
-　　　 🐠　　　　　　          🐠             🐙                 🐟                               🐟
- 🐡　　　　　　　　🐟       🐠                              🐟                 🐙                                🐠
-                                         🐙          🐳                                                                🐟
-       🐋                       🧜‍♂️                           🐳                🐠                 🦈
-               🐋                                      🐳  🐳                                                       🐙  
-         🐋                                                   🐳
- 
-🌾　　　🌱　 🦀　🌾　       🌱 🐚    🌱                🌾　🐚     🌱       🌱  🌿   🌾 🦪           🌿   🌱　　🌾      🌱  🌱  
-```
