@@ -1,21 +1,8 @@
-<h2>I'm Nathan.</h2> 
-<h3> 👨🏻‍💻 About Me </h3>
+<h2>Hi, I'm Nathan.</h2> 
 
-- 👨‍🎓 &nbsp; I’m currently a third year computer science student...
+- 👨‍🎓 &nbsp; I’m a fourth-year Computer Science student...
+- 🌱 &nbsp; Learning web dev and building new skills along the way...
 - 🤔 &nbsp; Exploring new technologies and developing software solutions...
-- 🌱 &nbsp; Taking baby steps towards learning front end development...
-- 🚴‍ &nbsp; Planning to create a portfolio...
-- ♡ &nbsp; Be grateful...
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; C | C++ | Java | Python 
-- 🌐 &nbsp; HTML | CSS | JavaScript | ReactJS
-- ⚙️ &nbsp; NodeJS | ExpressJS | PHP | SQL
-- 🛢 &nbsp; MySQLWorkbench | Docker | Xampp
-- 🔧 &nbsp; Visual Studio Code | Android Studio | PyCharm | Git
-
-<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=nathanlao&layout=compact&theme=buefy">
